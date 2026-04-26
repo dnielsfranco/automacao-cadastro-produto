@@ -20,5 +20,11 @@ A automação simula ações do usuário (mouse e teclado), realiza login e pree
 ##  Como executar
 
 1. Instale as dependências:
-```bash
 pip install pyautogui pandas
+
+2. Execute:
+python main.py
+
+## ⚠️ Observações
+- O sistema depende da posição do mouse (coordenadas)
+- Pode ser necessário ajustar conforme a tela
