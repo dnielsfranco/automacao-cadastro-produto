@@ -25,6 +25,6 @@ pip install pyautogui pandas
 2. Execute:
 python main.py
 
-## ⚠️ Observações
+## Observações
 - O sistema depende da posição do mouse (coordenadas)
 - Pode ser necessário ajustar conforme a tela
